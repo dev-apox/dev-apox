@@ -15,7 +15,6 @@
 ## 📌 About Me
 - 🎓 Computer Science / University Student
 - 🚀 Check out my latest project: **Dynamic Island for Windows** (available on my [website](https://denisdev.online))
-- 🎮 Casual gamer & tech tinkerer
 
 ---
 
