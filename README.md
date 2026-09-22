@@ -25,28 +25,9 @@
     <img src="https://img.shields.io/badge/R6%20Siege-Er__Capitan0-ff4655?style=for-the-badge&logo=ubisoft&logoColor=white" alt="R6 Tracker" />
   </a>
   &nbsp;&nbsp;
-  <!-- Replace YOUR_TAG with your actual in-game tag (e.g., #2PP) to link directly to your profile -->
-  <a href="https://royaleapi.com/player/apox" target="_blank">
-    <img src="https://img.shields.io/badge/Clash%20Royale-apox.-1e90ff?style=for-the-badge&logo=supercell&logoColor=white" alt="Clash Royale Tracker" />
+  <a href="https://royaleapi.com/player/LYJV9G0V" target="_blank">
+    <img src="https://img.shields.io/badge/Clash%20Royale-apox.%20(%23LYJV9G0V)-1e90ff?style=for-the-badge&logo=supercell&logoColor=white" alt="Clash Royale Tracker" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-apox&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Denis's GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=dev-apox&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Denis's GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-apox&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" width="96%" />
 </p>
 
 ---
@@ -96,6 +77,10 @@
   <a href="https://denisdev.online" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="42" height="42" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" width="96%" />
 </p>
 
 <div align="center">
