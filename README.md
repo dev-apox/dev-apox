@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=dev-apox">
-    <img src="https://komarev.com/ghpvc/?username=dev-apox&label=Profile%20Views&color=00FFFF&style=for-the-badge" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=dev-apox&label=Profile%20Views&color=00000&style=for-the-badge" alt="Profile views" />
   </a>
 </p>
 
