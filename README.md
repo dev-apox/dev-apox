@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
+  <img src="assets/banner.gif" alt="Banner" width="100%" />
 </p>
 
 ## 📌 About Me
@@ -76,9 +76,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" width="96%" />
+  <img src="assets/example.gif" alt="Space shooter contribution graph" width="96%" />
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+  <img src="assets/line.gif" alt="Bottom Line" width="100%" />
 </div>
