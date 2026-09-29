@@ -20,7 +20,7 @@
 
 ## 🎮 Gaming & Trackers
 <p align="center">
-  <a href="https://r6.tracker.network/profile/pc/Er_Capitan0" target="_blank">
+  <a href="https://stats.cc/siege/Er_Capitan0/b47777e0-c20b-40e9-9ff7-3f5530df7a99?addToRecents=true&playlist=ranked" target="_blank">
     <img src="https://img.shields.io/badge/R6%20Siege-Er__Capitan0-ff4655?style=for-the-badge&logo=ubisoft&logoColor=white" alt="R6 Tracker" />
   </a>
   &nbsp;&nbsp;
