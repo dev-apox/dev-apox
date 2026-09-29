@@ -13,7 +13,7 @@
 </p>
 
 ## 📌 About Me
-- 🎓 Computer Science / University Student
+- 🎓 University Student
 - 🚀 Check out my latest project: **Dynamic Island for Windows** (available on my website and [here](https://github.com/dev-apox/dynamic-island))
 
 ---
