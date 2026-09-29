@@ -20,13 +20,10 @@
 
 ## 🎮 Gaming & Trackers
 <p align="center">
-  <a href="https://stats.cc/siege/Er_Capitan0/b47777e0-c20b-40e9-9ff7-3f5530df7a99?addToRecents=true&playlist=ranked" target="_blank">
-    <img src="https://img.shields.io/badge/R6%20Siege-Er__Capitan0-8f00ff?style=for-the-badge&logo=ubisoft&logoColor=white" alt="R6 Tracker" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://royaleapi.com/player/LYJV9G0V" target="_blank">
-    <img src="https://img.shields.io/badge/Clash%20Royale-apox.%20(%23LYJV9G0V)-1e90ff?style=for-the-badge&logo=supercell&logoColor=white" alt="Clash Royale Tracker" />
-  </a>
+  <a href="https://stats.cc/siege/Er_Capitan0/b47777e0-c20b-40e9-9ff7-3f5530df7a99?addToRecents=true&playlist=ranked" target="_blank" style="text-decoration: none; margin-right: 8px;">
+    <img src="https://img.shields.io/badge/R6%20Siege-Er__Capitan0-8f00ff?style=for-the-badge&logo=ubisoft&logoColor=white" alt="R6 Tracker" style="vertical-align: middle;" /></a>
+  <a href="https://royaleapi.com/player/LYJV9G0V" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Clash%20Royale-apox.%20(%23LYJV9G0V)-1e90ff?style=for-the-badge&logo=supercell&logoColor=white" alt="Clash Royale Tracker" style="vertical-align: middle;" /></a>
 </p>
 
 ---
