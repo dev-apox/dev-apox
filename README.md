@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=dev-apox">
-    <img src="https://komarev.com/ghpvc/?username=dev-apox&label=Profile%20Views&color=0d0b12&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/dev-apox">
+    <img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/dev-apox/dev-apox.json?color=0d0b12&style=for-the-badge&label=Profile%20Views" alt="Profile Views" />
   </a>
 </p>
 
