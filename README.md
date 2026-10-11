@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/dev-apox">
-    <img src="https://backend-views-counter.vercel.app/badge?username=dev-apox&color=0d0b12&style=for-the-badge&label=Profile%20Views" alt="Profile Views" />
+  <a href="https://komarev.com/ghpvc/?username=dev-apox">
+    <img src="https://komarev.com/ghpvc/?username=dev-apox&label=Profile+Views&color=0d0b12&style=for-the-badge&cache=reset" alt="Profile views" />
   </a>
 </p>
 
