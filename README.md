@@ -54,6 +54,22 @@ Backend & Database:
 
 ---
 
+## 🛠️ Certification Badges 🪶
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
+  <a href="https://www.credly.com/earner/earned/share/1bde9c28-fa8d-42ff-8ed1-5a03d1d6b45e" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/ethical-hacker.png" width="105" height="105" alt="Ethical Hacker Badge" />
+  </a>
+  <a href="https://www.credly.com/earner/earned/share/0e5754a5-70ee-480b-8e79-ea430f518487" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/networking-basics.png" width="105" height="105" alt="Networking Basics Badge" />
+  </a>
+  <a href="https://www.credly.com/badges/c5861bc7-8669-43db-8295-9e32ff82eb7b" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/data-science-essentials-with-python.png" width="105" height="105" alt="Data Science Essentials with Python Badge" />
+  </a>
+</div>
+
+---
+
 ## 🔗 Connect with Me
 <p align="center">
   <a href="mailto:denismoraru12@gmail.com">
