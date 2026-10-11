@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/dev-apox">
-    <img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/dev-apox/dev-apox.json?color=0d0b12&style=for-the-badge&label=Profile%20Views" alt="Profile Views" />
+    <img src="https://backend-views-counter.vercel.app/badge?username=dev-apox&color=0d0b12&style=for-the-badge&label=Profile%20Views" alt="Profile Views" />
   </a>
 </p>
 
