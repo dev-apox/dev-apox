@@ -14,7 +14,7 @@
 
 ## 📌 About Me
 - 🎓 University Student
-- 🚀 Now building a full C-based launcher featuring Windows Explorer menu customizations, Glass UI effects, and new core features.
+- 🚀 Now building a Glass UI launcher for Windows.
 
 ---
 
