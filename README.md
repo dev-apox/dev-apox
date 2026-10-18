@@ -14,7 +14,7 @@
 
 ## 📌 About Me
 - 🎓 University Student
-- 🚀 Now building a Glass UI launcher for Windows.
+- 🚀 Now building a MacOS launcher for Windows.
 
 ---
 
