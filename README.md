@@ -14,7 +14,7 @@
 
 ## 📌 About Me
 - 🎓 University Student
-- 🚀 Now building a MacOS launcher for Windows.
+- 🚀 Now building my first game.
 
 ---
 
