@@ -34,7 +34,7 @@ Languages & Scripting:
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-C%23-239120?logo=c&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-PowerShell-5391FE?logo=PowerShell&logoColor=white&style=flat">&nbsp;<br>
 
