@@ -14,7 +14,7 @@
 
 ## 📌 About Me
 - 🎓 University Student
-- 🚀 Now building my first game.
+- 🚀 You can find al my prjs here.
 
 ---
 
