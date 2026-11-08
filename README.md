@@ -1,15 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=black&customColorList=29&text=Denis%20Dev&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Uni%20Student%20%20%20%20&descSize=18&descAlignY=55&textBg=false"/>
+  <img src="assets/banner.gif" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=dev-apox">
     <img src="https://komarev.com/ghpvc/?username=dev-apox&label=Profile+Views&color=0d0b12&style=for-the-badge&cache=reset" alt="Profile views" />
   </a>
-</p>
-
-<p align="center">
-  <img src="assets/banner.gif" alt="Banner" width="100%" />
 </p>
 
 ## 📌 About Me
