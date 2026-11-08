@@ -10,7 +10,7 @@
 
 ## 📌 About Me
 - 🎓 University Student
-- 🚀 You can find al my prjs here.
+- 🚀 Software Developer.
 
 ---
 
