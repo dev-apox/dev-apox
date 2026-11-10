@@ -10,7 +10,7 @@
 
 ## 📌 About Me
 - 🎓 University Student
-- 🚀 Best Project: [CoolWebsite](https://dev-apox.github.io/CoolWebsite/).
+- 🚀 Fav. Project: [CoolWebsite](https://dev-apox.github.io/CoolWebsite/)
 
 ---
 
