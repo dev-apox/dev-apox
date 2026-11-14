@@ -12,7 +12,7 @@
 - 🎓 University Student
 - 🚀 Now learning Rust
 
-Note: My following list is managed by a bot. It checks every 5 hours and automatically unfollows anyone who doesn't follow back (organizations excluded).
+**Note**: My following list is managed by a bot. It checks every 5 hours and automatically unfollows anyone who doesn't follow back (organizations excluded).
 
 ---
 
