@@ -10,7 +10,7 @@
 
 ## 📌 About Me
 - 🎓 University Student
-- 🚀 Fav. Project: [CoolWebsite](https://dev-apox.github.io/CoolWebsite/)
+- 🚀 Now learning Rust
 
 Note: My following list is managed by a bot. It checks every 5 hours and automatically unfollows anyone who doesn't follow back (organizations excluded).
 
